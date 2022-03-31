@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "name": "Desenvolvimento de Site",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "Desenvolvimento"
+      },
+      "projects": 500,
+      "services": [
+        {
+          "name": "Contratar Dev PHP",
+          "projects": "500",
+          "description": "Vai criar a função de envio de e-mails",
+          "id": "0687ce1a-211a-406d-a3e7-d595fc22fcad"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Infraestrutura de Redes",
+      "budget": "600",
+      "category": {
+        "id": "2",
+        "name": "Infra"
+      },
+      "projects": 300,
+      "services": [
+        {
+          "name": "Compra Switch Huawei",
+          "projects": "300",
+          "description": "Para o Gerenciamento das Redes",
+          "id": "539cb8d9-1eb5-4cab-8bf8-b29d090b7c78"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Aplicativo Delivery",
+      "budget": "3000",
+      "category": {
+        "id": "3",
+        "name": "Aplicativo"
+      },
+      "projects": 600,
+      "services": [
+        {
+          "name": "Contratar Dev JavaScript Full-stack",
+          "projects": "600",
+          "description": "Vai criar modelos de prototipagem para aplicativos",
+          "id": "3f994428-42f3-4123-a860-30938282d7ed"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 2,
+      "name": "Infra"
+    },
+    {
+      "id": 3,
+      "name": "Aplicativo"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
